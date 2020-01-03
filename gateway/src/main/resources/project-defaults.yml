@@ -1,0 +1,7 @@
+project:
+  service:
+    url: http://homework-project-service-homework.apps.cluster-7917.7917.sandbox1824.opentlc.com
+
+freelancer:
+  service:
+    url: http://homework-freelancer-service-homework.apps.cluster-7917.7917.sandbox1824.opentlc.com
